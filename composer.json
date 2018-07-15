@@ -4,7 +4,7 @@
     "type": "library",
     "keywords": ["geojson", "wkt", "geophp", "converter", "geometry"],
     "homepage": "https://github.com/phayes/geoPHP",
-    "license": "GPL-2 or New-BSD",
+    "license": "GPL-2",
     "authors": [
         {
             "name": "Patrick Hayes",
